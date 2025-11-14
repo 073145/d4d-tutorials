@@ -1,6 +1,6 @@
 # ⚠️ Disclaimer: Sample Data
-# This data has been synthetically created to ensure a clean and consistent format, allowing the tutorial to focus 100% on the tool (Streamlit) without the need for complex data cleaning steps.
-
+# The municipal_spending.csv file included in this tutorial contains fictitious (false) data.
+# This data was created synthetically to ensure a clean format...
 id,municipality,date,category,amount
 1,Lisbon,2023-01-15,Health,150000
 2,Lisbon,2023-01-20,Education,220000
