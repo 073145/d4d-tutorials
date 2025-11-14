@@ -21,3 +21,12 @@ For this tutorial, you will need the following libraries:
 ```bash
 pip install streamlit pandas plotly
 ```
+
+To run the application: Open your terminal, navigate to this folder and run:
+
+
+```bash
+streamlit run app.py
+```
+
+Your browser will automatically open with the dashboard.
