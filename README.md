@@ -67,11 +67,9 @@ Want to contribute to a specific project? See which tutorials are most relevant 
 * All tutorials in the [Twitter](#twitter-api) section are highly relevant.
 
 * **[Internal Displacement](https://github.com/Data4Democracy/internal-displacement)**
-* [Interactive Maps with Folium](https://github.com/Data4Democracy/tutorials/blob/master/Twitter/Python_and_maps.ipynb)
 * **[USA Dashboard](https://github.com/Data4Democracy/usa-dashboard)**
-* [Interactive Maps with Folium](https://github.com/Data4Democracy/tutorials/blob/master/Twitter/Python_and_maps.ipynb)
 * **[Immigration Connect](https://github.com/Data4Democracy/immigration-connect)**
-* [Interactive Maps with Folium](https://github.com/Data4Democracy/tutorials/blob/master/Twitter/Python_and_maps.ipynb)
+
 * [Building a Graph with Networkx](https://github.com/Data4Democracy/tutorials/blob/master/Twitter/Building_a_Graph_Twitter.ipynb): A brief tutorial on how to build a graph of Twitter friends and followers.
 
 ---
