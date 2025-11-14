@@ -10,15 +10,17 @@ st.set_page_config(
     layout="wide"
 )
 
+
+
+
 # --- Data Loading ---
-@st.cache_data # Cache decorator: loads data only once
+@st.cache_data
 def load_data():
-    """
-    Loads municipal spending data and converts the 'date' column
-    to datetime format.
-    """
-    # Load from the CSV file
-    df = pd.read_csv("municipal_spending.csv") 
+    # Diga ao Pandas para ignorar linhas que começam com '#'
+    df = pd.read_csv(
+        "municipal_spending.csv", 
+        comment='#'  # <--- Esta é a linha mágica
+    ) 
     df['date'] = pd.to_datetime(df['date'])
     return df
 
