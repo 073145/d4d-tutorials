@@ -1,0 +1,33 @@
+# ⚠️ Disclaimer: Sample Data
+# This data has been synthetically created to ensure a clean and consistent format, allowing the tutorial to focus 100% on the tool (Streamlit) without the need for complex data cleaning steps.
+
+id,municipality,date,category,amount
+1,Lisbon,2023-01-15,Health,150000
+2,Lisbon,2023-01-20,Education,220000
+3,Lisbon,2023-01-25,Transport,95000
+4,Porto,2023-01-17,Health,120000
+5,Porto,2023-01-22,Education,180000
+6,Porto,2023-01-28,Culture,50000
+7,Lisbon,2023-02-15,Health,165000
+8,Lisbon,2023-02-20,Education,230000
+9,Lisbon,2023-02-25,Transport,110000
+10,Porto,2023-02-17,Health,135000
+11,Porto,2023-02-22,Education,190000
+12,Porto,2023-02-28,Culture,55000
+13,Lisbon,2023-03-15,Health,170000
+14,Lisbon,2023-03-20,Education,240000
+15,Lisbon,2023-03-25,Transport,100000
+16,Porto,2023-03-17,Health,140000
+17,Porto,2023-03-22,Education,205000
+18,Porto,2023-03-28,Culture,60000
+19,Coimbra,2023-01-20,Health,80000
+20,Coimbra,2023-01-25,Education,110000
+21,Coimbra,2023-02-20,Health,85000
+22,Coimbra,2023-02-25,Education,115000
+23,Coimbra,2023-03-20,Health,90000
+24,Coimbra,2023-03-25,Education,120000
+25,Coimbra,2023-03-28,Transport,40000
+26,Lisbon,2023-04-15,Health,180000
+27,Lisbon,2023-04-20,Education,250000
+28,Porto,2023-04-17,Health,150000
+29,Coimbra,2023-04-20,Health,95000
